@@ -63,7 +63,7 @@ hangman-word-guessing-game/
 
 3. **Run the script**
    ```bash
-   python hangman-word-guessing-game.py
+   python hangman_game.py
    ```
 
 ---
