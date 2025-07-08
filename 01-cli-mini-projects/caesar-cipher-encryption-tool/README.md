@@ -61,7 +61,7 @@ caesar-cipher-encryption-tool/
 
 3. **Run the script**
    ```bash
-   python caesar-cipher-encryption-tool.py
+   python caesar_cipher.py
    ```
 
 ---
