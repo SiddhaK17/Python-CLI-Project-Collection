@@ -50,22 +50,24 @@ blind-auction-cli-project/
 
 ---
 
-## ▶️ How to Run
+### 🛠️ How to Run
 
-1. **Clone the repository**:
+> ⚠️ Make sure Python 3 is installed on your system.
+
+1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/blind-auction-cli-project.git
-   cd blind-auction-cli-project
    ```
 
-2. **Ensure both files `blind_auction.py` and `art.py` are in the same folder.**
+2. **Navigate to the project folder**
+   ```bash
+   cd python-project-collection/01-cli-mini-projects/blind-auction-cli-project
+   ```
 
-3. **Run the project in your terminal**:
+3. **Run the script**
    ```bash
    python blind_auction.py
    ```
-
-4. **Follow the interactive prompts** in your terminal to conduct a full blind auction session.
 
 ---
 
