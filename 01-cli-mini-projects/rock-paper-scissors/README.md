@@ -54,20 +54,24 @@ It's part of a broader collection of CLI mini-projects built to strengthen core 
 
 ---
 
-## 🚀 How to Run
+### 🛠️ How to Run
 
-> Make sure Python 3 is installed on your system.
+> ⚠️ Make sure Python 3 is installed on your system.
 
-1. Clone this repository or download the folder manually.
-
-2. Open a terminal and navigate to the project directory:
+1. **Clone the repository**
    ```bash
-   cd path/to/rock-paper-scissors
+   git clone https://github.com/your-username/rock-paper-scissors.git
+   ```
 
-3. Run the program:
+2. **Navigate to the project folder**
+   ```bash
+   cd python-project-collection/01-cli-mini-projects/rock-paper-scissors
+   ```
+
+3. **Run the script**
+   ```bash
    python rock_paper_scissors.py
-
-- If you're on macOS/Linux, you may need to use python3 instead.
+   ```
 
 ---
 
@@ -95,4 +99,18 @@ Computer chose:
 
 You Win!
 ```
+---
+
+### ✅ Key Takeaways
+
+- 🚀 **Hands-on understanding of conditional logic** in Python (`if`, `elif`, `else`).
+- 🧠 Learned how to implement **basic game mechanics** through user input and computer-generated outcomes.
+- 🎲 Applied **Python’s `random` module** to simulate unpredictable computer decisions.
+- 🖼️ Practiced the use of **multi-line ASCII art** for creating a visually interactive CLI experience.
+- 🔁 Improved understanding of **input validation** by handling out-of-bound values gracefully.
+- 🧱 Gained foundational experience with:
+  - List indexing and control structures.
+  - Clean, readable CLI outputs with structured results.
+- 🧪 Reinforced the habit of **testing each outcome path** to ensure a complete game cycle.
+
 ---
