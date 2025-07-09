@@ -60,12 +60,12 @@ cli-calculator-project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cli-calculator-project.git
+   git clone https://github.com/your-username/python-cli-project-collection.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-project-collection/01-cli-mini-projects/cli-calculator-project
+   cd python-cli-project-collection/cli-python-mini-projects/cli-calculator-project
    ```
 
 3. **Run the script**
