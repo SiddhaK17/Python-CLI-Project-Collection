@@ -50,7 +50,7 @@ This project demonstrates fundamental Python programming concepts while offering
 ### 📂 Project Structure
 
 ```plaintext
-01-cli-mini-projects/
+cli-python-mini-projects/
 └── secure-password-generator/
     ├── secure_password_generator.py   # Main executable Python script
     └── README.md                      # Project documentation
@@ -64,12 +64,12 @@ This project demonstrates fundamental Python programming concepts while offering
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/python-project-collection.git
+   git clone https://github.com/your-username/python-cli-project-collection.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-project-collection/01-cli-mini-projects/secure-password-generator
+   cd python-cli-project-collection/cli-python-mini-projects/secure-password-generator
    ```
 
 3. **Run the script**
