@@ -51,12 +51,12 @@ caesar-cipher-encryption-tool/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/caesar-cipher-encryption-tool.git
+   git clone https://github.com/your-username/python-cli-project-collection.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-project-collection/01-cli-mini-projects/caesar-cipher-encryption-tool
+   cd python-cli-project-collection/cli-python-mini-projects/caesar-cipher-encryption-tool
    ```
 
 3. **Run the script**
