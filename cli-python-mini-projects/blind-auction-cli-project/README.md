@@ -56,12 +56,12 @@ blind-auction-cli-project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/blind-auction-cli-project.git
+   git clone https://github.com/your-username/python-cli-project-collection.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-project-collection/01-cli-mini-projects/blind-auction-cli-project
+   cd python-cli-project-collection/cli-python-mini-projects/blind-auction-cli-project
    ```
 
 3. **Run the script**
