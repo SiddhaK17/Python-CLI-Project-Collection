@@ -53,12 +53,12 @@ hangman-word-guessing-game/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hangman-word-guessing-game.git
+   git clone https://github.com/your-username/python-cli-project-collection.git
    ```
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-project-collection/01-cli-mini-projects/hangman-word-guessing-game
+   cd python-cli-project-collection/cli-python-mini-projects/hangman-word-guessing-game
    ```
 
 3. **Run the script**
