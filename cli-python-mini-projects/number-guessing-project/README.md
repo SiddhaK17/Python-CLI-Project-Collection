@@ -164,3 +164,11 @@ Demonstrates effective use of:
 - Debugging techniques through clear output at each stage
 
 ---
+
+## 🚀 Future Enhancements
+
+- ⏱️ Add a countdown timer to make the game more thrilling.
+- 💡 Provide intelligent hints based on the difference in guesses.
+- 📊 Include a scoreboard or performance summary.
+- 🔄 Offer replay option after the game ends.
+- 🖼️ Add a simple GUI version using Tkinter or PyQt.
