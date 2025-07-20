@@ -68,16 +68,44 @@ These projects helped bridge the gap between theory and application by encouragi
 
 ---
 
-## 🛠✨ Technologies Used
+## 🛠✨ Technologies & Tools Used
 
-This collection relies exclusively on **Python** and standard libraries — no external dependencies or GUI frameworks. Key highlights include:
+This CLI project suite is built entirely using **Python** and its powerful built-in capabilities—no third-party libraries, packages, or GUI frameworks were used. The focus is on writing clean, lightweight, and dependency-free code that runs seamlessly in any standard Python environment.
 
-- ✅ Python 3.x (core language)
-- 📦 Built in libraries like `random`, `os`, and `sys`
-- 📚 Command line input/output (via `input()` and `print()`)
-- 🧠 Object Oriented Programming (classes, attributes, and methods)
-- 🧹 Modular file structuring for reusability and clarity
-- 🧪 Testable, maintainable, and human readable code
+### 🔍 Core Technologies & Features
+
+- 🐍 **Python 3.x**  
+  Utilized as the core programming language, chosen for its readability, versatility, and robust standard library.
+
+- 📦 **Standard Python Libraries**  
+  Employed libraries such as:
+  - `random` – for generating pseudo-random choices and behaviors in games.
+  - `os` – to interact with the operating system for tasks like clearing the console.
+  - `sys` – for handling system-level functions and graceful program exits.
+
+- 💻 **Command-Line Interface (CLI)**  
+  All interactions are performed through the terminal using:
+  - `input()` – for real-time user prompts.
+  - `print()` – for formatted, user-friendly outputs and UI simulation.
+
+- 🧠 **Object-Oriented Programming (OOP)**  
+  Implemented core OOP principles including:
+  - Class-based structure for encapsulation.
+  - Attributes and methods for organizing game logic and data effectively.
+
+- 🧹 **Modular Architecture**  
+  Code is structured across multiple files and functions to:
+  - Promote **reusability**, **clarity**, and **separation of concerns**.
+  - Allow easier debugging, readability, and future scalability.
+
+- 🧪 **Clean, Testable Code Design**  
+  Every function and logic block is crafted with:
+  - Human-readability and simplicity in mind.
+  - Maintainable structure for easy updates and expansion.
+
+---
+
+> 🧩 This approach ensures the entire project remains lightweight, platform-independent, and easy to understand—even for beginners—while still demonstrating professional programming practices.
 
 ---
 
