@@ -1,6 +1,6 @@
 # 🐍✨ Python CLI Project Collection
 
-Welcome to the **Python CLI Project Collection** — a curated set of beginner to intermediate level Command Line Interface (CLI) applications, all crafted in **pure Python**. This repository showcases a variety of interactive, terminal based mini projects that demonstrate core programming principles, logic development, and object-oriented design in action.
+Welcome to the **Python CLI Project Collection** a curated set of beginner to intermediate level Command Line Interface (CLI) applications, all crafted in **pure Python**. This repository showcases a variety of interactive, terminal based mini projects that demonstrate core programming principles, logic development, and object-oriented design in action.
 
 Each project reflects a real world use case or fun challenge, making it an excellent portfolio for learners and enthusiasts alike.
 
@@ -22,13 +22,14 @@ This repository houses a curated collection of interactive, terminal based Pytho
 | ✊ `rock-paper-scissors` | A command line version of the iconic Rock-Paper-Scissors game. Uses conditionals and randomness to simulate gameplay between the user and the computer. A concise example of decision making logic. |
 | 🧷 `secure-password-generator` | A secure password generator that creates randomized passwords based on user preferences for length, symbols, numbers, and characters. Reinforces list operations, randomness, and user input handling. |
 
+---
 > 🚀🔧 All projects are beginner to intermediate level and are designed to be modular, cleanly structured, and easy to extend. More projects will be added in the future as part of ongoing learning and portfolio development.
 
 ---
 
 ## 🎯✨ Purpose & Learning Goals
 
-This repository is a curated collection of Command-Line Interface (CLI) mini-projects created to solidify my Python programming skills through hands-on development and real-world application logic. Each project is crafted with the goal of progressing from foundational concepts to more structured, modular, and maintainable code.
+This repository is a curated collection of Command-Line Interface (CLI) mini-projects created to solidify my Python programming skills through hands on development and real world application logic. Each project is crafted with the goal of progressing from foundational concepts to more structured, modular, and maintainable code.
 
 ### 🚀 Why This Repository Exists
 
@@ -37,7 +38,7 @@ As a passionate learner and aspiring developer, I wanted to:
 - Reinforce key programming principles through practice.
 - Build a tangible portfolio that reflects my growth and capabilities.
 
-These projects helped bridge the gap between theory and application by encouraging experimentation, debugging, and decision-making.
+These projects helped bridge the gap between theory and application by encouraging experimentation, debugging, and decision making.
 
 ---
 
@@ -56,21 +57,21 @@ These projects helped bridge the gap between theory and application by encouragi
 - Handle **user input, flow control, and program logic** in a responsive and intuitive way.
 
 #### 🧱 Apply Object-Oriented Programming (OOP)
-- Create programs using **classes, objects, methods, and encapsulation** to understand real-world software modeling.
+- Create programs using **classes, objects, methods, and encapsulation** to understand real world software modeling.
 
 #### 🌍 Contribute to a Developer Portfolio
 - Maintain this repository as a **track record of consistent coding practice**.
-- Showcase my **progressive learning** and commitment to clean, maintainable code in the open-source space.
+- Showcase my **progressive learning** and commitment to clean, maintainable code in the open source space.
 
 ---
 
-> 🛤 Each project in this repo represents a step forward in my journey to become a confident, capable, and creative Python developer. The goal isn’t just to complete small tasks—but to think like a developer, solve problems logically, and write code that communicates clearly.
+> 🛤 Each project in this repo represents a step forward in my journey to become a confident, capable, and creative Python developer. The goal isn’t just to complete small tasks but to think like a developer, solve problems logically, and write code that communicates clearly.
 
 ---
 
 ## 🛠✨ Technologies & Tools Used
 
-This CLI project suite is built entirely using **Python** and its powerful built-in capabilities—no third-party libraries, packages, or GUI frameworks were used. The focus is on writing clean, lightweight, and dependency-free code that runs seamlessly in any standard Python environment.
+This CLI project suite is built entirely using **Python** and its powerful built in capabilities. No third party libraries, packages, or GUI frameworks were used. The focus is on writing clean, lightweight, and dependency-free code that runs seamlessly in any standard Python environment.
 
 ### 🔍 Core Technologies & Features
 
@@ -79,14 +80,14 @@ This CLI project suite is built entirely using **Python** and its powerful built
 
 - 📦 **Standard Python Libraries**  
   Employed libraries such as:
-  - `random` – for generating pseudo-random choices and behaviors in games.
+  - `random` – for generating pseudo random choices and behaviors in games.
   - `os` – to interact with the operating system for tasks like clearing the console.
-  - `sys` – for handling system-level functions and graceful program exits.
+  - `sys` – for handling system level functions and graceful program exits.
 
 - 💻 **Command-Line Interface (CLI)**  
   All interactions are performed through the terminal using:
-  - `input()` – for real-time user prompts.
-  - `print()` – for formatted, user-friendly outputs and UI simulation.
+  - `input()` – for real time user prompts.
+  - `print()` – for formatted, user friendly outputs and UI simulation.
 
 - 🧠 **Object-Oriented Programming (OOP)**  
   Implemented core OOP principles including:
@@ -105,7 +106,7 @@ This CLI project suite is built entirely using **Python** and its powerful built
 
 ---
 
-> 🧩 This approach ensures the entire project remains lightweight, platform-independent, and easy to understand—even for beginners—while still demonstrating professional programming practices.
+> 🧩 This approach ensures the entire project remains lightweight, platform independent, and easy to understand even for beginners while still demonstrating professional programming practices.
 
 ---
 
@@ -148,6 +149,16 @@ python-cli-project-collection/
 
 ## 🙌 Acknowledgments
 
-Many of these projects were built as part of my learning journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"** by **Dr. Angela Yu**. I’m also inspired by the broader Python and open source community for promoting clean code practices, continuous learning, and creativity in development.
+This repository and the journey behind it has been deeply shaped by the incredible resources and individuals who continuously contribute to the global programming community.
+
+- 🎓 **Dr. Angela Yu’s "100 Days of Code: The Complete Python Pro Bootcamp"**  
+  A majority of these projects were conceptualized and implemented during this transformative course. Dr. Yu’s engaging teaching style and real world project approach laid a strong foundation in Python, object oriented programming, and clean coding practices.
+
+- 🌐 **The Python Community & Open Source Ecosystem**  
+  Immense gratitude goes to the Python community at large, whose ethos of collaboration, mentorship, and knowledge sharing has been a constant source of inspiration. From insightful GitHub repositories to helpful Stack Overflow threads, open source has played a pivotal role in shaping my understanding of software craftsmanship.
+
+---
+
+> 🚀 This journey is just the beginning. I’m committed to lifelong learning, open-source contribution, and sharing knowledge to uplift fellow developers.
 
 ---
