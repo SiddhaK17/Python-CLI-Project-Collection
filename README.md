@@ -1,6 +1,6 @@
 # 🐍✨ Python CLI Project Collection
 
-Welcome to the **Python CLI Project Collection** a curated set of beginner to intermediate level Command Line Interface (CLI) applications, all crafted in **pure Python**. This repository showcases a variety of interactive, terminal based mini projects that demonstrate core programming principles, logic development, and object-oriented design in action.
+Welcome to the **Python CLI Project Collection** a curated set of beginner to intermediate level Command Line Interface (CLI) applications, all crafted in **pure Python**. This repository showcases a variety of interactive, terminal based mini projects that demonstrate core programming principles, logic development, and object oriented design in action.
 
 Each project reflects a real world use case or fun challenge, making it an excellent portfolio for learners and enthusiasts alike.
 
@@ -29,7 +29,7 @@ This repository houses a curated collection of interactive, terminal based Pytho
 
 ## 🎯✨ Purpose & Learning Goals
 
-This repository is a curated collection of Command-Line Interface (CLI) mini-projects created to solidify my Python programming skills through hands on development and real world application logic. Each project is crafted with the goal of progressing from foundational concepts to more structured, modular, and maintainable code.
+This repository is a curated collection of Command Line Interface (CLI) mini projects created to solidify my Python programming skills through hands on development and real world application logic. Each project is crafted with the goal of progressing from foundational concepts to more structured, modular, and maintainable code.
 
 ### 🚀 Why This Repository Exists
 
@@ -52,11 +52,11 @@ These projects helped bridge the gap between theory and application by encouragi
 - Learn how to **break complex logic into reusable components** using functions and multiple files.
 - Improve code clarity, readability, and scalability with structured design patterns.
 
-#### 🧪 Build Real-World CLI Applications
+#### 🧪 Build Real World CLI Applications
 - Develop engaging and interactive programs that run directly in the terminal.
 - Handle **user input, flow control, and program logic** in a responsive and intuitive way.
 
-#### 🧱 Apply Object-Oriented Programming (OOP)
+#### 🧱 Apply Object Oriented Programming (OOP)
 - Create programs using **classes, objects, methods, and encapsulation** to understand real world software modeling.
 
 #### 🌍 Contribute to a Developer Portfolio
