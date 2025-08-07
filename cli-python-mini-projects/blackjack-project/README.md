@@ -180,7 +180,7 @@ Applies Python fundamentals proficiently:
 ---
 
 ### ✅ Foundations of CLI Game Development  
-Demonstrates how to build engaging games purely within the terminal. No GUI, no frameworks — just raw logic and decision making.
+Demonstrates how to build engaging games purely within the terminal. No GUI, no frameworks... Just raw logic and decision making.
 
 ---
 
