@@ -106,7 +106,7 @@ The winner is Bob with a bid of $200
 
 - Demonstrates practical application of **dictionaries** for user to value mapping.
 - Reinforces use of **functions** for modular and reusable logic (e.g., finding highest bid).
-- Teaches how to simulate **real-world interactions** using CLI tools and basic print based UI tricks.
+- Teaches how to simulate **real world interactions** using CLI tools and basic print based UI tricks.
 - Great example of **user flow design**, making beginners think from a product user perspective.
 - Ideal for strengthening **Python fundamentals** while solving a practical problem.
 
