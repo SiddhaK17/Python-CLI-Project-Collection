@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher – Text Encryption & Decryption CLI Program
 
-A streamlined command-line tool that demonstrates the classical Caesar Cipher encryption technique — allowing users to securely encode or decode text using a specified shift value. Designed for simplicity and clarity, this project provides an excellent introduction to cryptographic logic and user-interactive Python applications.
+A streamlined command-line tool that demonstrates the classical Caesar Cipher encryption technique allowing users to securely encode or decode text using a specified shift value. Designed for simplicity and clarity, this project provides an excellent introduction to cryptographic logic and user interactive Python applications.
 
 ---
 
@@ -18,7 +18,7 @@ Whether you're a beginner learning about ciphers or a developer building foundat
 - **ASCII Art** – Enhances UX with stylized banner displays  
 - **List Manipulation** – Efficient handling of character shifting and wrapping  
 - **Modular Programming** – Separation of logic and visual components  
-- **Control Flow** – Use of loops, conditionals, and error-handling  
+- **Control Flow** – Use of loops, conditionals, and error handling  
 - **Symmetric Encryption Logic** – Implements classical Caesar Cipher technique  
 - **Robust Input Validation** – Ensures smooth user interaction with fallback mechanisms  
 
@@ -29,7 +29,7 @@ Whether you're a beginner learning about ciphers or a developer building foundat
 1. Displays a branded ASCII logo upon launch for branding and clarity.
 2. Asks the user to choose between `encode` (encrypt) and `decode` (decrypt).
 3. Prompts for a message and a numeric shift value.
-4. Applies the Caesar Cipher logic while preserving non-alphabet characters.
+4. Applies the Caesar Cipher logic while preserving non alphabet characters.
 5. Outputs the resulting encoded or decoded message.
 6. Offers the option to restart or exit the application.
 7. Handles invalid inputs with custom error messages to enhance user experience.
@@ -131,7 +131,7 @@ Thankyou for using Caesar Cipher. Goodbye!
 
 - 📚 **Applied Cryptography Basics**: Successfully implemented a classical Caesar Cipher algorithm, reinforcing foundational knowledge in symmetric encryption.
 
-- 💡 **Clean CLI Design**: Designed a user-friendly command-line interface that ensures intuitive interactions and real-time feedback.
+- 💡 **Clean CLI Design**: Designed a user friendly command line interface that ensures intuitive interactions and real time feedback.
 
 - 🔁 **Modular Code Structure**: Separated logic from visual presentation (ASCII art) for better readability, scalability, and maintenance.
 
