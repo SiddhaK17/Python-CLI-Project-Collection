@@ -71,7 +71,7 @@ These projects helped bridge the gap between theory and application by encouragi
 
 ## 🛠✨ Technologies & Tools Used
 
-This CLI project suite is built entirely using **Python** and its powerful built in capabilities. No third party libraries, packages, or GUI frameworks were used. The focus is on writing clean, lightweight, and dependency-free code that runs seamlessly in any standard Python environment.
+This CLI project suite is built entirely using **Python** and its powerful built in capabilities. No third party libraries, packages, or GUI frameworks were used. The focus is on writing clean, lightweight, and dependency free code that runs seamlessly in any standard Python environment.
 
 ### 🔍 Core Technologies & Features
 
@@ -84,14 +84,14 @@ This CLI project suite is built entirely using **Python** and its powerful built
   - `os` – to interact with the operating system for tasks like clearing the console.
   - `sys` – for handling system level functions and graceful program exits.
 
-- 💻 **Command-Line Interface (CLI)**  
+- 💻 **Command Line Interface (CLI)**  
   All interactions are performed through the terminal using:
   - `input()` – for real time user prompts.
   - `print()` – for formatted, user friendly outputs and UI simulation.
 
-- 🧠 **Object-Oriented Programming (OOP)**  
+- 🧠 **Object Oriented Programming (OOP)**  
   Implemented core OOP principles including:
-  - Class-based structure for encapsulation.
+  - Class based structure for encapsulation.
   - Attributes and methods for organizing game logic and data effectively.
 
 - 🧹 **Modular Architecture**  
