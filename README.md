@@ -113,7 +113,7 @@ This CLI project suite is built entirely using **Python** and its powerful built
 ## 📁 Project Structure
 
 ```
-python-cli-project-collection/
+Python-CLI-Project-Collection/
 └── cli-python-mini-projects/
         ├── blackjack-project/
         ├── blind-auction-cli-project/
@@ -132,12 +132,12 @@ python-cli-project-collection/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/python-cli-project-collection.git
+   git clone https://github.com/yourusername/Python-CLI-Project-Collection.git
    ```
 
 2. **Navigate to the specific project folder:**
    ```bash
-   cd python-cli-project-collection/cli-python-mini-projects/blackjack-project
+   cd Python-CLI-Project-Collection/cli-python-mini-projects/blackjack-project
    ```
 
 3. **Run the script**
