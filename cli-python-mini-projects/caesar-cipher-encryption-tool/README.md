@@ -56,7 +56,7 @@ caesar-cipher-encryption-tool/
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-cli-project-collection/cli-python-mini-projects/caesar-cipher-encryption-tool
+   cd Python-CLI-Project-Collection/cli-python-mini-projects/caesar-cipher-encryption-tool
    ```
 
 3. **Run the script**
