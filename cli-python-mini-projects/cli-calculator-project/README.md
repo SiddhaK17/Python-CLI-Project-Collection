@@ -65,7 +65,7 @@ cli-calculator-project/
 
 2. **Navigate to the project folder**
    ```bash
-   cd python-cli-project-collection/cli-python-mini-projects/cli-calculator-project
+   cd Python-CLI-Project-Collection/cli-python-mini-projects/cli-calculator-project
    ```
 
 3. **Run the script**
